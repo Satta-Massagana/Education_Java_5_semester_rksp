@@ -2,7 +2,7 @@ services:
 
   db:
     image: postgres
-    restart: always
+    restart: no
     environment:
       POSTGRES_PASSWORD: postgres
     ports:
