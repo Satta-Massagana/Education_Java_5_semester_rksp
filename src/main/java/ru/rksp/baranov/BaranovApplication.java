@@ -9,5 +9,4 @@ public class BaranovApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BaranovApplication.class, args);
 	}
-
 }
